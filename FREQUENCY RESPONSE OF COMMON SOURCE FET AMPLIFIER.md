@@ -8,7 +8,9 @@
 
 
 # Tabulation with readings
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/32bd646d-ef10-45ad-82ea-668ec2918ad5" />
 
 ## Semilog plotted Graph
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/dc5806f6-4718-4809-9d7a-1ec9d39bc356" />
 
 <img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
