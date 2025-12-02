@@ -14,12 +14,17 @@
 
 
 ## Tabulation
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/c61056ca-81eb-427d-b993-3380fddc79b3" />
 
 ## Graph
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/a4ea1d7c-cd44-4937-982a-251e77558533" />
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
 Practical frequency of Oscillation =
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/c0167dab-3a94-4a47-a5bf-c30e5e949e6b" />
+
 
 
 Theoritical Frequency of Oscillation =
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/65696840-6032-4c70-9814-0ab8f24324a4" />
